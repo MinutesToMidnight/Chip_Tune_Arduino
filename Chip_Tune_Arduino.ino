@@ -56,7 +56,6 @@ void loop()
 
 void sing(int song)
 {
-        source
         if (song == 1)
         {
                 //"Main Theme"
